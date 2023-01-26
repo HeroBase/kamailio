@@ -60,13 +60,8 @@
 
 MODULE_VERSION
 
-
-<<<<<<< HEAD
-=======
-#define TH_MASKMODE_SLIP3XXCONTACT 1
 #define TH_HT_SIZE 10
 
->>>>>>> cee012f968... topoh: uses socket IP when no mask_ip is defined
 /** module parameters */
 str _th_key = str_init("aL9.n8~Hm]Z");
 str th_cookie_name = str_init("TH"); /* lost parameter? */
